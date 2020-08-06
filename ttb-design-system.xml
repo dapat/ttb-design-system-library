@@ -11,7 +11,7 @@
     <item>
       <title>My Sketch Library</title>
       <pubDate>Thu, 6 Aug 2020 11:19:04 +0000</pubDate>
-      <enclosure url="https://github.com/dapat/ttb-design-system-library/blob/master/ttb-design-sketchlibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="ttb-design-sketchlibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
